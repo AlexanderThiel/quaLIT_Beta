@@ -1,0 +1,54 @@
+{
+    "categories": {
+      "1 Problemdefinition HK1": [
+        "Ja_P1",
+        "Nein_P2"
+      ],
+      "1.1 faktische Unterstützung HK2": [
+        "Ja_U1",
+        "Nein_U2",
+        "Wenig",
+        "Viel"
+      ],
+      "1.1.1 Modus der Unterstützung HK3": [
+        "militärisch",
+        "humanitär",
+        "finanziell",
+        "diplomatisch"
+      ],
+      "1.2 identifizierte Kriegsursache HK4": [
+        "Beteiligte Kriegsparteien",
+        "Europa",
+        "Westen",
+        "Global"
+      ],           
+      "2.1 individuelle Bewertung HK5": [
+        "Zuständigkeitsbekundung",
+        "Zuständigkeitsabweisung",
+        "Handlungsbedarf"
+      ],
+      "2.1.1 Legitimationsgrundlage HK6": [
+        "völkerrechtlich",
+        "historisch",
+        "moralisch",
+        "sicherheitspolitisch",
+        "demokratisch"
+      ],
+      "2.1.2 Solidarität HK7": [
+        "Individualebene",
+        "Kollektivebene"
+      ],
+      "2.2 disruptive Debattenlenkung HK8": [
+        "Schuldzuweisung",
+        "Vorwurf",
+        "Versuchter Themenwechsel",
+        "Pathos"
+      ],
+      "3 Alternativadressat HK9": [
+        "Russland",
+        "Andere",
+        "Deutschland"
+      ]
+    }
+  }
+  

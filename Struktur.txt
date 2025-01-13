@@ -1,0 +1,12 @@
+quaLIT/
+├── Qual_Funktionen/
+│   ├── calculate_reliability.R
+│   ├── quaLIT_interface.R
+│   └── text_config.R
+├── Reden/
+│   └── nb/
+│       ├── analytics/
+│       ├── codings/
+│       └── graphs/
+├── categories.json
+└── Startdatei.R
