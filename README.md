@@ -1,8 +1,8 @@
 # quaLIT
 
 ## Installationsvoraussetzungen
-- **R Studio**  
-- **R v4.1.1**  
+- **[R Studio](https://posit.co/download/rstudio-desktop)**  
+- **[R v4.4.1](https://cran.r-project.org/bin/windows/base/old/)**  
 
 ## Installationsanleitung
 Da sich das Programm aktuell noch im Beta-Status befindet, wurde es noch nicht als R-Paket in CRAN veröffentlicht. Aus diesem Grund muss die Projektstruktur entsprechend des aktuellen GitHub-Releases gespeichert werden, um sicherzustellen, dass alle Funktionen reibungslos ablaufen. Der Ordner kann jedoch an einem beliebigen Ort gespeichert und entpackt werden.  
@@ -16,4 +16,4 @@ Da sich das Programm aktuell noch im Beta-Status befindet, wurde es noch nicht a
 5. Warten Sie, bis sich die lokal gehostete Benutzeroberfläche im Webbrowser Ihrer Wahl öffnet.  
 
 ## Demofunktion
-Da das aktuellste Release in seiner aktuellen Form lediglich zu Demonstrationszwecken, zur Replikation unserer Daten und begleitend zur Vorstellung des Forschungsprojekts *"Qualitative Forschung in internationalen Organisationen"* dient, wird auf den Funktionsumfang zu diesem Zeitpunkt noch nicht genauer eingegangen.
+Da das aktuellste Release in seiner aktuellen Form lediglich zu Demonstrationszwecken, zur Replikation unserer Daten und begleitend zur Vorstellung des Forschungsprojekts im Seminar *"Qualitative Forschung in internationalen Organisationen"* dient, wird auf den Funktionsumfang zu diesem Zeitpunkt noch nicht genauer eingegangen.
