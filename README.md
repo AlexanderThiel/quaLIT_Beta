@@ -17,3 +17,8 @@ Da sich das Programm aktuell noch im Beta-Status befindet, wurde es noch nicht a
 
 ## Demofunktion
 Da das aktuellste Release in seiner aktuellen Form lediglich zu Demonstrationszwecken, zur Replikation unserer Daten und begleitend zur Vorstellung des Forschungsprojekts im Seminar *"Qualitative Forschung in internationalen Organisationen"* dient, wird auf den Funktionsumfang zu diesem Zeitpunkt noch nicht genauer eingegangen.
+
+## Zusätzliche Referenz
+Für ein bereits in CRAN eingebundenes Plugin zur Code-Zuordnung qualitativer Inhaltsanalyse, siehe:
+
+Isermann, Lukas. (2023). handcodeR: Text annotation app. R package version 0.1.2. http://doi.org/10.5281/zenodo.8075100.
